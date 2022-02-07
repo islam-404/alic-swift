@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A62B2C1427B17A3C00628E97 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = A62B2C1327B17A3C00628E97 /* .gitignore */; };
 		A6C30DAF27AD0AFB002A3F48 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C30DAE27AD0AFB002A3F48 /* AppDelegate.swift */; };
 		A6C30DB127AD0AFB002A3F48 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C30DB027AD0AFB002A3F48 /* SceneDelegate.swift */; };
 		A6C30DB327AD0AFB002A3F48 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C30DB227AD0AFB002A3F48 /* MainViewController.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A62B2C1327B17A3C00628E97 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		A6C30DAB27AD0AFB002A3F48 /* AlicV6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlicV6.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6C30DAE27AD0AFB002A3F48 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A6C30DB027AD0AFB002A3F48 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 		A6C30DA227AD0AFB002A3F48 = {
 			isa = PBXGroup;
 			children = (
+				A62B2C1327B17A3C00628E97 /* .gitignore */,
 				A6C30DAD27AD0AFB002A3F48 /* AlicV6 */,
 				A6C30DAC27AD0AFB002A3F48 /* Products */,
 			);
@@ -167,6 +170,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A62B2C1427B17A3C00628E97 /* .gitignore in Resources */,
 				A6C30DBB27AD0AFC002A3F48 /* LaunchScreen.storyboard in Resources */,
 				A6C30DB827AD0AFC002A3F48 /* Assets.xcassets in Resources */,
 				A6C30DB627AD0AFB002A3F48 /* Main.storyboard in Resources */,
